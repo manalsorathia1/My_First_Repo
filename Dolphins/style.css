@@ -1,0 +1,34 @@
+h1{
+    color: blue;
+}
+
+.title {
+    text-align: center;
+    display: inline-block;
+    background-color: lightblue;
+    margin: 30px;
+    padding: 30px;
+    font-family: "Montserrat, sans-serif";
+    
+}
+#dolphin-image {
+    width: 100px;
+}
+
+/*BODY */
+
+main{
+    background-color: lightgreen;
+    height: 800px;
+    width: 100;
+}
+.square{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px;
+}
